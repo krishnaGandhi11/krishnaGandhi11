@@ -1,6 +1,7 @@
 - Web Development and AI
 
 Portfolio: https://krishna-gandhi.netlify.app/
+
 LinkedIn: https://www.linkedin.com/in/krishna-gandhi-go/
 
 <!---
